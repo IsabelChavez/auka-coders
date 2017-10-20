@@ -1,0 +1,30 @@
+.box{
+  background: #F7F3F2;
+  width: 170px;
+  color: black;
+  height: 250px;
+  text-align: center;
+  vertical-align: middle;
+  color: black;
+  font-size: 25px;
+  text-align: center;
+  font-size: 11px;
+  line-height: 18px;
+  float: left;
+  margin: 1px;
+}
+#a {
+  font-size: 40px;
+}
+#b {
+  font-size: 40px;
+}
+#c {
+  font-size: 40px;
+}
+#d {
+  font-size: 40px;
+}
+#e {
+  font-size: 40px;
+}
